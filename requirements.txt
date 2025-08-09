@@ -1,0 +1,2 @@
+git+https://github.com/louisgoodnews/DateUtil.git#egg=dateutil
+git+https://github.com/louisgoodnews/Logger.git#egg=logger
