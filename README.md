@@ -20,7 +20,7 @@ SmartCache is a high-performance, thread-safe object caching library for Python 
 ## Installation
 
 ```bash
-pip install git+https://github.com/louisgoodnews/Cacheing.git
+pip install git+https://github.com/louisgoodnews/SmartCache.git
 ```
 
 ## Quick Start
